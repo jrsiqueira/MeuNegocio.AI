@@ -42,3 +42,8 @@ O fechamento do plano e a tiragem de dúvidas são feitos diretamente pelo Whats
 O envio do link de pagamento (Pix ou boleto gerado à mão) é feito pelo prestador após o alinhamento no chat.
 
 O painel de administração simula o recebimento dos leads do formulário para validação comercial rápida.
+
+Eis o resultado do projeto criado: https://techcare-plan-pilot.lovable.app](https://techcare-plan-pilot.lovable.app
+
+<img width="792" height="905" alt="image" src="https://github.com/user-attachments/assets/6bccf72d-a381-4539-94dc-4ed1a0d05f98" />
+
