@@ -47,3 +47,4 @@ Eis o resultado do projeto criado: https://techcare-plan-pilot.lovable.app](http
 
 <img width="792" height="905" alt="image" src="https://github.com/user-attachments/assets/6bccf72d-a381-4539-94dc-4ed1a0d05f98" />
 
+<img width="962" height="509" alt="image" src="https://github.com/user-attachments/assets/9b2c73a4-5831-4af3-a28f-e2f6179e078a" />
